@@ -1,9 +1,3 @@
-# Building-Generative-AI-Powered-Applications-with-Python
-
-In this folder you will find the projects that I did merging generative AI with Python and Flask. Here is a list of such projects:
-
-- An image captioning website using huggingface and blip:
-
 Images, rich with untapped information, often come under the radar of search engines and data systems. Transforming this visual data into machine-readable language is no easy task, but it's where image captioning AI is useful. Here's how image captioning AI can make a difference:
 
     * Improves accessibility: Helps visually impaired individuals understand visual content.
@@ -16,10 +10,3 @@ Images, rich with untapped information, often come under the radar of search eng
     * Enables data organization: Helps manage and categorize large sets of visual data.
     * Saves time: Automated captioning is more efficient than manual efforts.
     * Increases user engagement: Detailed captions can make visual content more engaging and informative.
-
-- My own chatgpt website
-- A voice assistant
-- Generative AI-Powered meeting assistant
-- AI application to summarize my private data using RAGs and Generative AI
-- Babel Fish: Universal translation system using STT and TTS
-- My own AI career coach 
